@@ -1,5 +1,4 @@
 import React from 'react';
-import defaultProps from "./defaultProps"
 import './App.css';
 
 function Whiskey({info}) {
